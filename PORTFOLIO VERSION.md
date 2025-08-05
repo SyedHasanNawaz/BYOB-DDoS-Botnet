@@ -1,4 +1,4 @@
-# 🧠 BYOB Botnet Lab – Ethical Simulation & Payload Debugging
+# 🧠 BYOB Botnet Lab – Practical Deployment, Debugging & DDoS Simulation
 
 ## 📘 Overview
 
@@ -43,3 +43,4 @@ A self-contained cybersecurity lab project exploring botnet architecture, payloa
 - ✅ Ethical decision-making in offensive security
 
 > ⚠️ All research and testing were conducted in a secure, offline lab environment for educational purposes only.
+
